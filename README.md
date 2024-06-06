@@ -9,16 +9,12 @@
 
 - 🔭 I’m currently working on **Proficient in MERN**
 
-- 
 - 🌱 I’m proficient in **Data Structure and Algorithm**
-
-- 
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/sqilco-projects/memento-mori](https://github.com/VanshSanduja)
 
-- 
 - 💬 Ask me about **Graphic Novels (PS: Batman: The Killing Joke is the best one.)**
-
-- 
+ 
 - ⚡ Fun fact: **I am funny**
 
 <h3 align="left">Connect with me:</h3>
