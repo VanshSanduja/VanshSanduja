@@ -2,11 +2,11 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <br> </p>
-- :telescope: I’m currently working on **Proficient in MERN**
-- :seedling: Proficient in Data Structure and Algorithm**
-- :male-technologist: All of my projects are available at [https://github.com/sqilco-projects/memento-mori](https://github.com/VanshSanduja)
-- :speech_bubble: Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)**
-- :zap: Fun fact **I am Funny**
+- :telescope: I’m currently working on **Proficient in MERN** <br>
+- :seedling: Proficient in Data Structure and Algorithm** <br>
+- :male-technologist: All of my projects are available at [https://github.com/sqilco-projects/memento-mori](https://github.com/VanshSanduja) <br>
+- :speech_bubble: Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)** <br>
+- :zap: Fun fact **I am Funny** <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vansh-sanduja-0b1643217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ravi-singh-763378182" height="30" width="40" /></a>
