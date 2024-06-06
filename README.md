@@ -1,7 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Ravi Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsrravisingh007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="httpsrravisingh007ravi" /> </p>
 - :telescope: I’m currently working on **Proficient in MERN** <br>
 - :seedling: Proficient in Data Structure and Algorithm** <br>
 - :male-technologist: All of my projects are available at [https://github.com/sqilco-projects/memento-mori] (https://github.com/VanshSanduja) <br>
