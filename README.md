@@ -1,11 +1,21 @@
 <h1 align="center">Hi :wave:, I'm Ravi Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-- :telescope: I’m currently working on **Proficient in MERN** <br>
-- :seedling: Proficient in Data Structure and Algorithm** <br>
-- :male-technologist: All of my projects are available at [https://github.com/sqilco-projects/memento-mori] (https://github.com/VanshSanduja) <br>
-- :speech_bubble: Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)** <br>
-- :zap: Fun fact **I am Funny** <br>
+- :telescope: I’m currently working on Proficient in MERN
+  <br>
+  <br>
+- :seedling: Proficient in Data Structure and Algorithm
+  <br>
+  <br>
+- :male-technologist: All of my projects are available at [https://github.com/sqilco-projects/memento-mori] (https://github.com/VanshSanduja)
+  <br>
+  <br>
+- :speech_bubble: Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)**
+  <br>
+  <br>
+- :zap: Fun fact I am Funny
+  <br>
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ravi-singh-763378182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ravi-singh-763378182" height="30" width="40" /></a>
