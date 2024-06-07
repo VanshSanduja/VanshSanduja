@@ -19,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ravi-singh-763378182" target="blank">
+  <a href="[https://linkedin.com/in/ravi-singh-763378182](https://www.linkedin.com/in/vansh-sanduja-0b1643217/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ravi-singh-763378182" height="30" width="40" />
   </a>
-  <a href="https://fb.com/profile.php?id=100007642129369" target="blank">
+  <a href="[https://fb.com/profile.php?id=100007642129369](https://www.facebook.com/vansh.sanduja.5)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook profile" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ravi_singh_thakur_78" target="blank">
+  <a href="https://www.instagram.com/vansh_sanduja17/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram profile" height="30" width="40" />
   </a>
 </p>
